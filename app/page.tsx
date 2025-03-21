@@ -125,7 +125,7 @@ export default function Home() {
               Contact
             </button>
             <Button asChild size="sm">
-              <a href="/resume.pdf" download>
+              <a href="/Steven_CV.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
                 Resume
               </a>
@@ -160,7 +160,7 @@ export default function Home() {
               Contact
             </button>
             <Button asChild size="sm" className="w-full">
-              <a href="/assets/Steven_CV.pdf" download>
+              <a href="/Steven_CV.pdf" download>
                 <Download className="mr-2 h-4 w-4" />
                 Resume
               </a>
@@ -271,7 +271,7 @@ export default function Home() {
 
                 <div className="flex justify-center pt-6">
                   <Button asChild>
-                    <a href="./assets/resume.pdf" download>
+                    <a href="/Steven_CV.pdf" download>
                       <Download className="mr-2 h-4 w-4" />
                       Download Full Resume
                     </a>
